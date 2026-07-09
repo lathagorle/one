@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="env">
 
 <head>
     <meta charset="utf-8" />
